@@ -1,6 +1,6 @@
 📸 **Sidebar Menu Web Page**
 
-🔗 **Live Demo** 👉 dinesh-beniwal-15.github.io/Slidebar-CSS/
+🔗 **Live Demo** 👉 https://dinesh-beniwal-15.github.io/Slidebar-CSS/
 
 A sleek and responsive sidebar menu web page built using **HTML** and **CSS**, featuring a DSLR-themed background image and stylish transitions. This minimal static project is designed to demonstrate layout styling, sidebar functionality, and aesthetic use of icons and background visuals — without any JavaScript.
 
